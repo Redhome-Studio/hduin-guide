@@ -6,7 +6,6 @@
 
 > 杭电人都在用的APP
 
-<!-- - Simple and lightweight -->
-<!-- - No statically built html files -->
-<!-- - Multiple themes -->
+[GitHub](https://github.com/Redhome-Studio/hduin-guide)
+[开始](guide.md)
   
